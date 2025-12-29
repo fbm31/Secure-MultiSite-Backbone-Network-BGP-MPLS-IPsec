@@ -44,5 +44,8 @@ Pour garantir la confidentialité des échanges entre les sites clients traversa
 
 Des ACLs ont été appliquées sur les interfaces Edge pour bloquer tout trafic non chiffré ou non légitime (Telnet bloqué, SSH autorisé).
 
+## Documentation complète
+Pour une analyse détaillée de l'architecture, des configurations et voir tous les tests de connectivité (Ping, Traceroute), vous pouvez consulter le **[Rapport Complet du Projet](docs/rapport_complet.pdf)**.
+
 ## Auteurs
  Fabien MOINE
